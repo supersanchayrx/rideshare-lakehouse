@@ -1,0 +1,6 @@
+pyspark
+pyarrow
+pandas
+boto3
+psycopg[binary]
+requests
